@@ -6,6 +6,8 @@
 
 CodeVideo is an event-sourced IDE state manager that enables software educators and content creators to create professional educational content at unprecedented speed.
 
+To read about the theory behind the framework, check out our [white paper](https://github.com/princefishthrower/codevideo-white-paper)
+
 The framework is broken down into small parts, each with their own single responsibility:
 
 Core Layer:
